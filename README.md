@@ -17,7 +17,6 @@ Btech IT Graduate from CUSAT
 ### 💻 Workspace Specs
 <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/Intel%20Core_i5_10300H-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)"/><br/> <br/>
 
-![Navas's most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Navas-Muhammed&theme=merko)   
 [![Navas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Navas-Muhammed&hide=issues,contribs&theme=merko)](https://github.com/NavasMuhammed/github-readme-stats) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Navas-Muhammed&theme=merko)](https://git.io/streak-stats)
